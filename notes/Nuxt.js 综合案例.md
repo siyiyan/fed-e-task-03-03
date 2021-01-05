@@ -365,7 +365,8 @@ children:[
 
 ![](images/13.png)
 
-效果是这样的:![](images/14.png)
+效果是这样的:
+![](images/14.png)
 
 删掉原本配置的index.vue删掉，没有用了
 ![](images/15.png)
