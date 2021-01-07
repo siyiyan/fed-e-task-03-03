@@ -17,3 +17,5 @@ DEMO地址   https://demo.realworld.io/#/
 作业所需服务器, 可以到下面地址购买,  0.1元使用3个月 (需要拉勾学员电话号码注册)
 
  https://www.ucloud.cn/site/active/lagou.html
+ 
+ 作业：部署成功地址 http://49.235.188.215:3000/
