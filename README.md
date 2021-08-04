@@ -13,9 +13,11 @@ DEMO地址   https://demo.realworld.io/#/
 
 
 说明
-
 所需服务器, 可以到下面地址购买,  0.1元使用3个月 
 
  https://www.ucloud.cn/site/active/lagou.html
  
- 作业：部署成功地址 http://49.235.188.215:3000/
+
+
+完成：
+部署成功地址 http://49.235.188.215:3000/
